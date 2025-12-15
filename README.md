@@ -1,5 +1,7 @@
 # Data-Analysis
 
+# SQL VS MYSQL :- 
+[https://youtube.com/shorts/BZy1zO0zX-w?feature=share]
 
 1️⃣ MySQL Download Page
 👉 https://www.mysql.com/downloads/
