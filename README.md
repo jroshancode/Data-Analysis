@@ -1,7 +1,6 @@
 # Data-Analysis
 
-
-
+<img width="1102" height="583" alt="image" src="https://github.com/user-attachments/assets/9b097e00-ff6b-488c-afc3-8937003b058b" />
 
 ## Key Functions of SQL:
   1. Data Querying: Retrieve data from a database using the SELECT statement.
